@@ -1,7 +1,7 @@
 // ==WindhawkMod==
-// @id              taskbar-hover-zoom
-// @name              Taskbar Hover Zoom
-// @name:zh-CN        任务栏悬停放大
+// @id              taskbar-dock-animation-tray-fix
+// @name              Taskbar Dock Animation – Tray Fix
+// @name:zh-CN        任务栏 Dock 动画（托盘修复版）
 // @description       Animates taskbar icons on mouse hover like in macOS
 // @description:uk-UA Анімація іконок панелі завдань, як в macOS, при наведенні
 // @description:zh-CN 类似 macOS 的任务栏图标悬停动画
@@ -9,7 +9,7 @@
 // @description:ko-KR macOS처럼 마우스를 올리면 작업 표시줄 아이콘이 애니메이션됩니다
 // @description:pt-BR Anima os ícones da barra de tarefas ao passar o mouse, como no macOS
 // @description:it-IT Anima le icone della barra delle applicazioni al passaggio del mouse, come su macOS
-// @version           1.0.0
+// @version           1.0.1
 // @author            PDSB001 (maintainer), Ph0en1x-dev (original author)
 // @github            https://github.com/PDSB001
 // @include           explorer.exe
@@ -19,7 +19,7 @@
 
 // ==WindhawkModReadme==
 /*
-# Taskbar Hover Zoom
+# Taskbar Dock Animation – Tray Fix
 
 Magnifies Windows 11 taskbar app buttons and Widgets on hover. The system tray stays at its normal size, including the input method and volume icons.
 
